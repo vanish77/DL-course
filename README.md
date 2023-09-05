@@ -1,1 +1,1 @@
-Deep Learning course, MMP
+Deep Learning course, MMF CMC MSU
